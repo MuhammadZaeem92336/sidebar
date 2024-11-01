@@ -65,7 +65,7 @@ export function SidebarDemo() {
           <div>
             <SidebarLink
               link={{
-                label: "Manu Arora",
+                label: "Muhammad Zaeem",
                 href: "#",
                 icon: (
                   <Image
